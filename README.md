@@ -254,19 +254,46 @@ A challnege I faced was to improve the reliability and coherence of the bot's an
 
 ### Bao Huynh
 
+The estimates of our work hours put into the project are as follows:
+
+- Fall 2023 - Total: 55 hours
+  - Researching and selecting appropriate tools and libraries for web scraping (10 hours)
+  - Designing and planning the web scraping system (10 hours)
+  - Implementing the initial version of the scraping scripts (15 hours)
+  - Fine-tuning the web scraping system (5 hours)
+  - Test and improve performance for the web scarping system (5 hours)
+  - Team meetings and other activities (10 hours)
+
+
+- Spring 2024 - Total: 50 hours
+  - Setting up the database schema and infrastructure (10 hours)
+  - Building data injection mechanisms (10 hours)
+  - Building data retrieval system (10 hours)
+  - Opimizing web scraping system for better data retrieval (10 hours)
+  - Team meetings and other activities (10 hours)
+
 
 ### Triet Pham
 
+- Fall 2023 - Total: 50 hours
+  - Researching user requirements (10 hours)
+  - Designing user interface wireframes and mockups (10 hours)
+  - Integrating basic interactive elements and UI components (15 hours)
+  - System testing, user feedback and revisions of the website (5 hours)
+  - Team meetings and other activities (10 hours)
+
+- Spring 2024 - 45 hours
+  - Design prompts for model (10 hours)
+  - Testing prompts and improve reponses results (10 hours)
+  - Integrating data into the UI (10 hours)
+  - Testing and debugging front-end components (5 hours)
+  - Team meetings and other activities (10 hours)
 
 ## 9. Summary of Expenses
 
 To date, expeneses only include $5 OpenAI GPT3.5 API cost
 
 ## 10. Appendix
-
-### Code repository link
-
-The code including all relevant documents are hosted on Github at: [https://github.com/bhuynhdev/college-compass](https://github.com/bhuynhdev/college-compass)
 
 ### Google Form Survey form
 
@@ -279,9 +306,12 @@ Questions:
 3. When it comes to career, what aspect do you find challenging? - Finding Opportunity, Resume Building, Networking, Technical Skills, Soft Skills, Career Choice
 4. Please provide some more details in a few words.
 
-### Web scraping result
+### Code repository link
 
-The [CEAS college website](https://ceas.uc.edu) was scraped using the [GPT Crawler library](https://www.builder.io/blog/custom-gpt#get-started-with-gpt-crawler) by Builder IO. The scraping took 1 hour to recursively scrape 1000 pages from the website, and the result can be accessed through this [link](https://github.com/bhuynhdev/college-compass/blob/main/src/gpt-crawler/output.json).
+Documentations link: [https://github.com/bhuynhdev/college-compass](https://github.com/bhuynhdev/college-compass)
+
+Code link: [https://github.com/bhuynhdev/college-compass-code/tree/main](https://github.com/bhuynhdev/college-compass-code/tree/main)
+
 
 ### Images of College Compass's first version result using GPT Assistant
 
@@ -293,9 +323,4 @@ GPT answer is often generic at first, even though the file is provided
 By Prompt engineering, we achived better results
 ![](/images/gpt-result-v0.png)
 
-## Web application interface wireframe
-
-We did preliminary design work (using Figma) to envision how our web application's user interface will look. We have opted to show the interface of our chat bot and the built-in todolist that takes todo item information from the AI-generated response.
-
-![](/images/figma-mockup-college-compass.png)
 
