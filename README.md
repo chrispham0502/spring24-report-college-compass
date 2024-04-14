@@ -323,4 +323,10 @@ GPT answer is often generic at first, even though the file is provided
 By Prompt engineering, we achived better results
 ![](/images/gpt-result-v0.png)
 
+### Meeting notes
+
+This semester, we meet once every 2 weeks for 1 hour to check in on the progress and discuss the next steps.
+
+Meeting Notes: [https://docs.google.com/spreadsheets/d/19HJHwYwEor9NODg8TDLrHBHOG2g19SwxhV2usDPUleo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/19HJHwYwEor9NODg8TDLrHBHOG2g19SwxhV2usDPUleo/edit?usp=sharing)
+
 
