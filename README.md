@@ -43,7 +43,7 @@ The web app has only one page, which consists of the following components:
   - Question Input: a text input field for user to type their question in. After user have entered the question, displays an indicatior for loading response.
 
 User Interface Screenshot:
-![](/images/UI.jpg)
+![](/images/UI.png)
 
 ## 3. Test Plan and Results
 
